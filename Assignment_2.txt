@@ -1,0 +1,24 @@
+Assignment - 2 C Language LIVE Community Classes MySirG
+
+1. Which of the following are real constants?
+	3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0
+ 	The real constant is  4.5 , 3.0 , -0.0
+2. Which of the following are not keywords in C Language?
+	auto, dynamic, static, typedef, define, enum, is, default, this, super
+	(is, this , dynamic, define,  super) is not a keywords in c language.
+3. Which of the following is not a valid variable name in C language?
+	In c language we not start a variable name with digit and we not write any symbols in variable.
+4. Can we make a variable with the name switch? (Yes or No)
+	No variable name is not switch because it is keyword.
+5. Keywords are defined in the compiler or their meaning is stored in the library?
+	Keywords meaning is stored in the library.
+6. Where variables are created? (RAM, ROM, Secondary Storage or CPU)
+	Variables are created in RAM.
+7. Who developed C Language?
+	Dennis ritchie 
+8. When was the C language developed?
+	1972 the c language is developed.
+9. What is the name of the operating system which is responsible for the inception of the C language?
+	Unix os is responsible for the inception of the c language.
+10. Whether C language is a high level or low level programming language
+	Yes c language is both type of programming language.
